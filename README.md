@@ -35,3 +35,5 @@ Logs filtered by author: Philipp Kyeck
  * allow custom filters to be passed to middleware
  * bump version to 0.3.0
 ```
+
+![Screenshot of script's output](https://cloud.githubusercontent.com/assets/870980/5142927/36121412-718a-11e4-9ee9-2a2a127416cb.png)
