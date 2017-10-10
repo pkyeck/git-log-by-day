@@ -1,10 +1,15 @@
 git-log-by-day
 ==============
 
-bash script to log git commits grouped by day (optionally filtered by author and set start/end date)
+Bash script to log git commits grouped by day (optionally filtered by author and set start/end date)
 
+## Install instructions
 
-##Example output
+Copy the `git-log-by-day.sh` to the `/usr/local/bin` folder for all users to have access  
+**or**  
+create a `~/bin` folder and add that to your `PATH` so only your user can access it.
+
+## Example output
 
 ```bash
 $ git-log-by-day --author="Philipp Kyeck"
