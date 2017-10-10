@@ -62,3 +62,5 @@ git-log-by-day () {
 
   done
 }
+
+git-log-by-day "$@" | less -R
